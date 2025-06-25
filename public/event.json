@@ -1,0 +1,63 @@
+[
+    {
+      "id": "event_ent_001",
+      "name": "Dhaka Music Fiesta 2025",
+      "thumbnail": "https://i.ibb.co.com/VYRtLP9L/Live-Music-Events-Music-Event-Production-Company.jpg",
+      "category": "Music",
+      "date": "2025-06-20",
+      "location": "Army Stadium, Dhaka",
+      "entry_fee": 800,
+      "description": "Dhaka Music Fiesta 2025 brings together the heart and soul of Bangladesh's music scene with an electrifying lineup of local legends, indie artists, and international headliners. With breathtaking light shows, high-energy performances, and a buzzing festival ground full of food trucks, art booths, and fan zones, this is more than just a concert—it's a cultural phenomenon. Come with your friends, make memories, and celebrate music under the stars."
+    },
+    {
+      "id": "event_ent_002",
+      "name": "Bangla Beats Festival",
+      "thumbnail": "https://i.ibb.co.com/2zs47tW/maxresdefault.jpg",
+      "category": "Comedy",
+      "date": "2025-07-15",
+      "location": "Hatirjheel Amphitheatre, Dhaka",
+      "entry_fee": 500,
+      "description": "Get ready for a night of side-splitting laughter at the Comedy Carnival BD! Featuring a hilarious lineup of the country's top stand-up comedians, improv groups, and sketch performers, this event guarantees non-stop entertainment. Whether it's sharp political satire, relatable everyday humor, or wild improvisation—you'll be laughing till your cheeks hurt. With special guest appearances, audience games, and post-show meet & greets, this is the comedy event of the year."
+    },
+    {
+      "id": "event_ent_003",
+      "name": "Lights, Camera, Dhaka! Film Expo",
+      "thumbnail": "https://i.ibb.co.com/fVW3GJhq/IMG-4430.jpg",
+      "category": "Film",
+      "date": "2025-08-05",
+      "location": "Bangladesh Film Archive, Dhaka",
+      "entry_fee": 350,
+      "description": "Lights, Camera, Dhaka! is a week-long celebration of cinema, storytelling, and visual artistry. From underground indie projects to acclaimed international short films, this expo offers screenings, filmmaker Q&As, panel discussions, and a student competition. Attendees can dive into the world of cinematography, scriptwriting, and post-production through workshops led by industry professionals. Whether you're a film student, an aspiring director, or just a movie lover—this event is for you."
+    },
+    {
+      "id": "event_ent_004",
+      "name": "Comedy Carnival BD",
+      "thumbnail": "https://i.ibb.co.com/LMvQ5Lm/Ghpcqh8b-QAAl-Nau.jpg",
+      "category": "Music",
+      "date": "2025-08-25",
+      "location": "Star Cineplex Hall, Dhaka",
+      "entry_fee": 400,
+      "description": "Experience the rhythm of Bangladesh like never before! Bangla Beats Festival is a two-day musical celebration that blends the traditional sounds of folk instruments with modern pop, rock, and EDM. Set in the open-air Hatirjheel Amphitheatre, attendees will be treated to a diverse lineup of performers, cultural dance segments, interactive rhythm workshops, and fireworks to end each night with a bang. It’s the pulse of our culture, live on stage."
+    },
+    {
+      "id": "event_ent_005",
+      "name": "Street Art Vibes 2025",
+      "thumbnail": "https://i.ibb.co.com/67Nf1QNG/Frameless-Art-Exhibition-optimised.png",
+      "category": "Art",
+      "date": "2025-09-10",
+      "location": "Shahbagh Public Square, Dhaka",
+      "entry_fee": 0,
+      "description": "Street Art Vibes 2025 turns Shahbagh into a giant, open-air gallery filled with color, creativity, and cultural pride. Watch live mural painting, graffiti battles, spray art demonstrations, and stencil workshops hosted by Bangladesh’s top street artists. Enjoy spoken word poetry, live hip-hop music, breakdancing crews, and food stalls serving local snacks. This free event is a powerful tribute to self-expression and urban creativity—don't miss it."
+    },
+    {
+      "id": "event_ent_006",
+      "name": "Dhaka Live! Concert Series",
+      "thumbnail": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
+      "category": "Concert",
+      "date": "2025-10-01",
+      "location": "BICC Open Grounds, Dhaka",
+      "entry_fee": 1000,
+      "description": "The Dhaka Live! Concert Series is back with its most exciting season yet. Held monthly at the BICC Open Grounds, this live music extravaganza features different genres each month—from rock to folk to electronic. Expect stunning visuals, stage pyrotechnics, and a festive atmosphere buzzing with thousands of fans. Enjoy curated food trucks, merch zones, photo booths, and community chill spaces. Perfect for music lovers of all ages looking to soak in the sound and spirit of Dhaka."
+    }
+  ]
+  

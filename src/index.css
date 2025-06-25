@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+*{
+  box-sizing: border-box;
+
+  font-family: "Poppins", serif;
+} 
+
+
+li a.active {
+
+  text-decoration: underline;
+  font-weight: 700;
+  
+}
+
+body {
+  overflow-x: hidden;
+}
