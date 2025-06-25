@@ -42,12 +42,14 @@ MongoDB (local or cloud like MongoDB Atlas)
 
 🔐 Environment Variables
 
-VITE_FIREBASE_API_KEY=...
+VITE_apiKey=..
 
-VITE_FIREBASE_AUTH_DOMAIN=...
+VITE_authDomain=..
 
-VITE_FIREBASE_PROJECT_ID=...
+VITE_projectId=..
 
-VITE_FIREBASE_STORAGE_BUCKET=...
+VITE_storageBucket=event-..
 
-VITE_FIREBASE_APP_ID=...
+VITE_messagingSenderId=..
+
+VITE_appId=..
